@@ -1,0 +1,17 @@
+Student ID: 622771816
+Student Name: Anawin Mitsufuji
+My digital business: Online Pen store
+
+Description:
+The online pen store, "Anawin Pen Store", sells pen. My store catagorize product by company because a lot of people usually buy pen from same compary for long time. My store also have limited and special offer pens.
+
+A series of steps of my digital business process:
+1. Browse products
+2. Check product detail
+3. Sign in
+4. Add to cart
+5. Comfirm order
+6. Choose shipping method
+7. Fill customer information (name, address, phone number, zip code)
+8. Choose payment method
+9. Notify the result
