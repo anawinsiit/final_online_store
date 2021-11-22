@@ -235,6 +235,22 @@
                     console.log(this.cart)
                 },
 
+                delItem: function(id) {
+                    console.log(this.products)
+                    console.log(id)
+                    
+                    //Check if this product already in the cart
+                    item = this.cart.find(product => product.id == id)
+
+                    if (item) { // if this product already in the cart
+                        item.count -= 1
+                    } else {
+                        item = this.products.find(product => product.id == id)
+                        this.cart.splice()
+                    }
+                    console.log(this.cart)
+                },
+
                 ShowMyCart: function() {
                     this.cart_page = true
                     this.product_page = false
